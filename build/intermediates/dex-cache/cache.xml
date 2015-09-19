@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jose/Development/AndroidStudioProjects/Votatorium/ParseLoginUI/libs/ParseTwitterUtils-1.10.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5336b15186de874d314134e9ea6082da3dde4a1e">
+        <dex dex="/home/jose/Development/AndroidStudioProjects/Votatorium/Votatorium/build/intermediates/pre-dexed/debug/ParseTwitterUtils-1.10.0-9657510a8f6ed97f7f9cb288322ce1ecda8136f4.jar" />
+    </item>
+    <item
+        jar="/home/jose/Development/AndroidStudioProjects/Votatorium/Votatorium/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f7188fc9a524a8f965b5aeab74879036f0431080">
+        <dex dex="/home/jose/Development/AndroidStudioProjects/Votatorium/Votatorium/build/intermediates/pre-dexed/debug/classes-85dd53f3f35a6e142593e063e02b74d12fea33be.jar" />
+    </item>
+    <item
+        jar="/home/jose/Development/AndroidStudioProjects/Votatorium/Votatorium/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/jose/Development/AndroidStudioProjects/Votatorium/Votatorium/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-daa7e554ba02a4a375c8eb92512753840437b2c4.jar" />
+    </item>
+    <item
+        jar="/home/jose/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.10.0/79943588a3824033b3d813f43859ad1cffc6b557/parse-android-1.10.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="79943588a3824033b3d813f43859ad1cffc6b557">
+        <dex dex="/home/jose/Development/AndroidStudioProjects/Votatorium/Votatorium/build/intermediates/pre-dexed/debug/parse-android-1.10.0-f01fb4534adeb822df274105ab3f820ee4cf8374.jar" />
+    </item>
+    <item
+        jar="/home/jose/Development/AndroidStudioProjects/Votatorium/ParseLoginUI/libs/ParseFacebookUtilsV4-1.10.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0b531ff97a4b71df96a4d794c657703b2a347d7c">
+        <dex dex="/home/jose/Development/AndroidStudioProjects/Votatorium/Votatorium/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.10.0-b1059754e600359dbf795165b3f750df919755e6.jar" />
+    </item>
+    <item
+        jar="/opt/android-sdks/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/jose/Development/AndroidStudioProjects/Votatorium/Votatorium/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-878d2bf4a54f8d81fca8eba126be45df24534b1b.jar" />
+    </item>
+    <item
+        jar="/home/jose/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/home/jose/Development/AndroidStudioProjects/Votatorium/Votatorium/build/intermediates/pre-dexed/debug/bolts-android-1.2.1-de1f864c156dc553195d84e858ce2cee879f94a9.jar" />
+    </item>
+    <item
+        jar="/home/jose/Development/AndroidStudioProjects/Votatorium/Votatorium/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/jose/Development/AndroidStudioProjects/Votatorium/Votatorium/build/intermediates/pre-dexed/debug/classes-eb97e4da729c591f67afff3e859ef69b3715e205.jar" />
+    </item>
+    <item
+        jar="/home/jose/Development/AndroidStudioProjects/Votatorium/Votatorium/build/intermediates/exploded-aar/Votatorium/ParseLoginUI/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f07023dbe7684989c1276ac45ea8aedeba5ce382">
+        <dex dex="/home/jose/Development/AndroidStudioProjects/Votatorium/Votatorium/build/intermediates/pre-dexed/debug/classes-587c101c84d5b3916bfb52bdf19fc0e97f07c0f8.jar" />
+    </item>
+
+</items>

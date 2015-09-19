@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="parse_app_id">BtjpwZlwewFmZ2cDHItWEQ1TS2kljRCk9ZgP4mIf</string>
+    <string name="parse_client_key">w6ox2F4pAyNu6DzHhjPeyhjwNK68GLjU8UJ0HgDZ</string>
+
+    <string name="hello">Hello Votatorium!</string>
+    <string name="app_name">Votatorium</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
